@@ -7,7 +7,7 @@
 </head>
 <body>
 
-  <img src="https://placekitten.com/150/150" alt="Photo de Gift">
+
   <h1>Salut, moi c’est Gift 👋</h1>
   <p>🎓 Étudiante en Informatique appliquée à la gestion</p>
   <p>💻 Passionnée de développement et de création de sites web</p>
